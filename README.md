@@ -63,11 +63,11 @@ The dataset used in this project is the popular **Mall_Customers.csv**, which co
 
 | Cluster | Income Level | Spending Behavior | Description                          |
 |-------- |--------------|-------------------|--------------------------------------|
-| 0       | Moderate     | Moderate          | Balanced regular customers           |
-| 1       | High         | Low               | Cautious or brand-conscious spenders |
-| 2       | Low          | Low               | Less engaged or budget buyers        |
-| 3       | High         | High              | Premium customers, high-value group  |
-| 4       | Low          | High              | Impulsive or deal-seeking customers  |
+| 1       | Moderate     | Moderate          | Balanced regular customers           |
+| 2       | High         | Low               | Cautious or brand-conscious spenders |
+| 3       | Low          | Low               | Less engaged or budget buyers        |
+| 4       | High         | High              | Premium customers, high-value group  |
+| 5       | Low          | High              | Impulsive or deal-seeking customers  |
 
 These insights can guide **personalized campaigns, loyalty programs, and budget allocation**.
 
